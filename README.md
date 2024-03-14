@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dewo9
 - 👀 I’m interested in Java and SQL 
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java and Objekt Oriented Programming
 
 
 <!---
